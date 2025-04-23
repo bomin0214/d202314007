@@ -6,5 +6,6 @@ public class Main {
         System.out.println("김보민");
         World.run();
         Hello.run();
+        World.run2();
     }
 }
